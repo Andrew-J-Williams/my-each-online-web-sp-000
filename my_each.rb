@@ -7,7 +7,7 @@ def my_each(array) # Accepts the argument of the array.
       n += 1 # Fourth, we increase the value of n by 1.
     end
 
-    array # Fifth, we return the value of the array
+    array # Fifth, we return the array, just like the 'each' method does.
   else
     return nil
   end
