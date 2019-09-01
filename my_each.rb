@@ -3,7 +3,7 @@ def my_each(array) # Accepts the argument of the array.
     n = 0 # ...then first, we create a variable n and set it to 0.
 
     while n < array.length # Second, run a while loop that goes for the length of our array.
-      yield array[n] 
+      yield array[n] # Third, use 'yield' to 
       n += 1
     end
 
