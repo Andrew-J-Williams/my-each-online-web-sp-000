@@ -8,5 +8,5 @@ def my_each(array) # Accepts the argument of the array.
     end
 
     array # Fifth, we return the array, just like the 'each' method does.
-  
+
 end
